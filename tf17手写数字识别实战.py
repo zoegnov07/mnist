@@ -1,5 +1,3 @@
-# 学生：张先豪
-# 开发时间：2021/4/25 21:41
 import os
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
